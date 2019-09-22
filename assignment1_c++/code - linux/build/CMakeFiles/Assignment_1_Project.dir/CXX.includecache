@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/jidar/OneDrive/Desktop/school/Q1/CG/assignment1_c++/code - linux/Exercises.cpp
+list
+-
+iostream
+-
+cmath
+-
+Exercises.h
+/mnt/c/Users/jidar/OneDrive/Desktop/school/Q1/CG/assignment1_c++/code - linux/Exercises.h
+
+/mnt/c/Users/jidar/OneDrive/Desktop/school/Q1/CG/assignment1_c++/code - linux/Exercises.h
+list
+-
+set
+-
+numeric
+-
+vector
+-
+algorithm
+-
+stack
+-
+

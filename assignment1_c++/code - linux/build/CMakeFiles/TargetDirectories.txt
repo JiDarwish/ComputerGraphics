@@ -1,0 +1,3 @@
+/mnt/c/Users/jidar/OneDrive/Desktop/school/Q1/CG/assignment1_c++/code - linux/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jidar/OneDrive/Desktop/school/Q1/CG/assignment1_c++/code - linux/build/CMakeFiles/Assignment_1_Project.dir
+/mnt/c/Users/jidar/OneDrive/Desktop/school/Q1/CG/assignment1_c++/code - linux/build/CMakeFiles/edit_cache.dir
