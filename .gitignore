@@ -61,3 +61,10 @@
 *.exe
 *.out
 *.app
+
+*.swp
+/TAGS
+/lib/opengl/*.so
+/lib/opengl/*.bundle
+/pkg
+/tmp
